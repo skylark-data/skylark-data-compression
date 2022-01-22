@@ -1,0 +1,1 @@
+{"version":3,"sources":["compression.js"],"names":["define","skylark","attach"],"mappings":";;;;;;;AAAAA,QACI,oBACD,SAASC,GAER,aAEA,OAAOA,EAAQC,OAAO","file":"../compression.js","sourcesContent":["define([\r\n    \"skylark-langx-ns\",\r\n], function(skylark) {\r\n\r\n    'use strict';\r\n\r\n    return skylark.attach(\"data.compression\");\r\n\r\n});"]}
